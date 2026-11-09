@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+    margin: 30px;
+    text-align: left;
+}
+
+main h1 {
+    padding: 15px;
+    font-weight: bold;
+    font-size: 60px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 3px blue;
+}
+
+main p {
+    padding: 15px;
+    margin: 15px;
+    text-transform: capitalize;
+    line-height: 1.6;
+    font-size: 18px;
+    opacity: 0.5;
+}
+main a {
+    text-decoration: none;
+    padding: 5px 10px;
+    border: solid 3px white;
+    border-radius: 7px;
+    margin: 0 0 0 20px; 
+}
+
+.get {
+    background-color: blue;
+    color: white;
+}
+.it {
+    background-color: wheat;
+    color: black;
+    opacity: 0.5;
+    padding: 5px 30px;
+}
